@@ -3,6 +3,8 @@
 ## What is this project 
 This project includes html and css coding of "Choose your plane" component.
 
+Live preview https://yilmazkadan.github.io/Choose-your-plane-component/
+
 ## Gains .
 
 - This project tought me to create custom checkbox without using Javascript.
